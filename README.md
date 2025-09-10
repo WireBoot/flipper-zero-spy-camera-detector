@@ -1,5 +1,3 @@
-# flipper-zero-spy-camera-detector
-A simple Flipper Zero app to detect spy cameras using its infrared capabilities.
 # Flipper Zero Spy Camera Detector
 
 This is a simple Flipper Zero application that uses the built-in infrared capabilities to detect spy cameras.
@@ -8,7 +6,6 @@ This is a simple Flipper Zero application that uses the built-in infrared capabi
 
 - Detects infrared signals from spy cameras.
 - Displays signal strength and estimated distance.
-- Simulates scanning functionality for demo purposes.
 
 ## How to Build and Upload
 
