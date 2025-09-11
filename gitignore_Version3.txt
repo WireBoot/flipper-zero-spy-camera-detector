@@ -1,0 +1,20 @@
+# Flipper Zero build artifacts
+build/
+dist/
+*.fap
+
+# Firmware and SDK directories (if cloned inside project)
+flipperzero-firmware/
+furi_sdk/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*.user
+*.workspace
+.idea/
+.vscode/
