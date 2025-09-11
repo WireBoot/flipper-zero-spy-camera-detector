@@ -1,0 +1,8 @@
+APP_NAME = spy_camera_detector
+
+FLIPPER_FW_PATH ?= ../flipperzero-firmware
+FURI_SDK_PATH := $(FLIPPER_FW_PATH)/furi_sdk
+
+SRC = spy_camera_detector.c
+
+include $(FURI_SDK_PATH)/app_make.mk
