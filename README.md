@@ -42,3 +42,11 @@ This app uses Flipper Zero's IR LED to help find hidden cameras by blinking the 
 ---
 
 **Happy hunting!**
+
+</> Giving credits to my project makes me really happy — and if this project brought you a smile or saved you time, I’d gratefully accept a donation. Every bit keeps the work going. 💙
+USDT Address: TKY6kupcFnJqaYDkYWFzYyZf9Vc98dJyVx
+Network: TRON(TRC20)
+
+
+
+
