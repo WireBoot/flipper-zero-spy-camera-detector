@@ -1,6 +1,9 @@
 {
   "name": "Spy Camera Detector",
-  "description": "Detect hidden cameras with Flipper Zero IR LED",
+  "appId": "spy_camera_detector",
+  "entryPoint": "spy_camera_detector_app",
   "icon": "icon.xbm",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "category": "Tools",
+  "description": "Detect hidden cameras with Flipper Zero IR LED"
 }
